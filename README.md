@@ -3,7 +3,9 @@
 
  I identify problems affecting those around me and develop systems to solve them.
 
- My main tools are Java, SQL, Pandas and Power BI. I mainly use Android Studio, Power BI and IntelliJ IDEA.
+## Main tools: Java, SQL, Pandas and Power BI. 
+
+## Mainly use: Android Studio, Power BI and IntelliJ IDEA.
 
  I have developed a few projects to showcase my skills:
 
@@ -12,11 +14,11 @@
  • Developed a Java alphabet-guessing-game that allow users 3 seconds to enter a guess.
  
  • Developed an Android Calculator app in Android Studio, compatible with all android devices.
+ ## Note: Bracket with -,÷,×,% have known limitations.
 
- Currently developing: An e-health prototype in Java & SQL designed to reduce clinic wait times and improve patient registration.
+ Developed & soon to update: An e-health prototype in Java (GUI) & SQL designed to reduce clinic wait times and improve patient registration.
 
  
-
  Interests:
 • Finding problems to solve through technology 
 • Visualizing data for feedback and analysis. 
