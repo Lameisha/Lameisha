@@ -1,11 +1,11 @@
 ## Hello there! 👋
- I'm Masec-Tech, a Systems development student focused on building real-world solutions.
+ I'm Masec-Tech, a Systems Development student focused on building real-world solutions.
 
  I identify problems affecting those around me and develop systems to solve them.
 
-## Main tools: Java, SQL, Python (Pandas) and Microsoft Power BI. 
+Main tools: Java, SQL, Python (Pandas) and Microsoft Power BI. 
 
-## Development environments: Android Studio, Microsoft Power BI and IntelliJ IDEA, MySQL Workbench, Pycharm.
+Development environments: Android Studio, Microsoft Power BI and IntelliJ IDEA, MySQL Workbench, Pycharm.
 
  I have developed a few projects to showcase my skills:
 
@@ -16,6 +16,7 @@
  • Developed a Java console alphabet-guessing-game that allow users 3 seconds to enter a guess.
  
  • Developed an Android Calculator app in Android Studio, compatible with modern android devices.
+ 
  ## Note: Bracket with -,÷,×,% have known limitations and are currently being improved.
 
  Pokémon Analytics Dashboard - Cleaned and prepared Pokémon data using Python (Pandas) before developing an interactive Microsoft Power BI dashboard to analyze Pokémon statistics by generation and type using KPI cards, charts and slicers.
