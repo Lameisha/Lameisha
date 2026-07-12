@@ -1,28 +1,33 @@
 ## Hello there! 👋
- I'm Masec-Tech, a systems development student focused on building real-world solutions.
+ I'm Masec-Tech, a Systems development student focused on building real-world solutions.
 
  I identify problems affecting those around me and develop systems to solve them.
 
-## Main tools: Java, SQL, Pandas and Power BI. 
+## Main tools: Java, SQL, Python (Pandas) and Microsoft Power BI. 
 
-## Mainly use: Android Studio, Power BI and IntelliJ IDEA.
+## Development environments: Android Studio, Microsoft Power BI and IntelliJ IDEA, MySQL Workbench, Pycharm.
 
  I have developed a few projects to showcase my skills:
 
- • I have developed an SQL database and Power BI Coffee sales dashboard.
- 
- • Developed a Java alphabet-guessing-game that allow users 3 seconds to enter a guess.
- 
- • Developed an Android Calculator app in Android Studio, compatible with all android devices.
- ## Note: Bracket with -,÷,×,% have known limitations.
+• Coffee sales dashboard - Designed a relational SQL database in MySQL Workbench and developed an interactive Power BI dashboard to analyze sales performance, product trends, and business insights.
 
- Developed & soon to update: An e-health prototype in Java (GUI) & SQL designed to reduce clinic wait times and improve patient registration.
+• Superstore sales dashboard - Designed an interactive Microsoft Power BI dashboard using the Superstore dataset to analyze sales performance, customer activity, product performance, and sales trends through KPI cards, charts and slicers.
+ 
+ • Developed a Java console alphabet-guessing-game that allow users 3 seconds to enter a guess.
+ 
+ • Developed an Android Calculator app in Android Studio, compatible with modern android devices.
+ ## Note: Bracket with -,÷,×,% have known limitations and are currently being improved.
+
+ Pokémon Analytics Dashboard - Cleaned and prepared Pokémon data using Python (Pandas) before developing an interactive Microsoft Power BI dashboard to analyze Pokémon statistics by generation and type using KPI cards, charts and slicers.
+
+• Developed & soon to update: An e-health prototype in Java (GUI) & SQL designed to reduce clinic wait times and improve patient registration.
 
  
  Interests:
 • Finding problems to solve through technology 
 • Visualizing data for feedback and analysis. 
 • Systems Development 
+• Data Analytics 
  
 ## Tech Stack
 
